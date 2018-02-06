@@ -2,4 +2,4 @@
 
 This is my test readme
 
-My notes(/.notes.txt)
+My [notes](/.notes.txt)
