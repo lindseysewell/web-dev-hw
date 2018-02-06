@@ -1,0 +1,4 @@
+- Fackets of data leave their destination and travel different paths to the same destination, converging there.
+- DNS links the IP address with an name we can remember, such as google.com, that takes us to the IP.
+- A cookie is a small piece of web data stored on a computer for later use.
+- protocol, domain name, and path.
