@@ -6,4 +6,4 @@ Web forms include text boxes, multiple choice radio boxes, check boxes and more.
 
 This work cycle was rather confusing and frustrating for me, since my table formatting doesn't seem to work. I got most of the other things done correctly and I'm satisfied with the result.
 
-![image][images/screenshot.png]
+![image](images/screenshot.png)
