@@ -1,4 +1,4 @@
-# Project 3:
+# Project 2:
 ## The struggle
 
 This project was very hard for me but it turned out to be a lot of fun. I really like HTML, but I still have to reference our learning material sometimes to recall what I'm supposed to be doing.
