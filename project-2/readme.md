@@ -8,7 +8,7 @@ I am excited to learn to decorate with css. I love graphic design and pretty web
 This work cycle was difficult for me. I've been working for many hours over the course of a few days and it was pretty hard to figure out what I'm doing. I had some issues with navigation as shown in the below screenshots:
 
 
-Inline-style:
+
 ![text](images/screenshot1.png)
 ![text](images/screenshot2.png)
 ![text](images/screenshot3.png)
