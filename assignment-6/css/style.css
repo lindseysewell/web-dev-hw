@@ -1,0 +1,50 @@
+body {
+   height: 800px;
+   width: 800px;
+   background-color: darkturquoise;
+}
+
+i{
+  font-family: sans-serif;
+}
+
+h1 {
+border:10px dotted white;
+   color: maroon;
+   font-size: 60;
+   font-family: impact;
+}
+.slang {
+position:absolute;
+  height: 300px;
+  width:800px;
+  border:10px dotted orange;
+  color: darkmagenta;
+  font-family: arial;
+  font-size: 40;
+  opacity:0.75;
+  background-color: gold;
+}
+
+.title{
+  height:300px;
+  width: 800px;
+  background-color:tomato;
+  border:15px solid teal;
+}
+header,footer{
+background-color: darkturquoise;
+
+}
+
+.slang b{
+  color: maroon !important;
+}
+
+.title p{
+  color:white;
+}
+
+.image1{
+height: 400px
+}
