@@ -1,0 +1,79 @@
+
+@import url('https://fonts.googleapis.com/css?family=Titan+One');
+
+body {
+   background-color: #ffaf47;
+
+}
+h1 {
+  letter-spacing: -0.03em;
+  font-size: 40px;
+  color: #ff6932;
+  font-family: Titan One;
+  text-decoration: underline;
+}
+h2{ align-content: center;
+    font-family: Oswald;
+    font-weight: Bold;
+}
+p{
+  font-family: Oswald,
+  arial;
+  font-weight: extralight;
+}
+
+#title{
+background:#ffea30 ;
+
+}
+
+#information{
+  color: #007f99;
+  background: #ffd644;
+
+}
+
+
+#paragraph-1{
+color:#007f99;
+background:#ffc147;
+
+}
+#paragraph-2{
+  background:#ffd447;
+
+}
+#paragraph-3{
+  background:#ffe347;
+
+}
+#paragraph-4{
+  background:#ffef47;
+
+}
+#paragraph-5{
+  background:#fff15e;
+
+}
+
+#link{
+  font-family: Titan One;
+  font-size: 30px;
+
+
+}
+a:link {
+  color: #008a91;
+}
+a:visited {
+  color:#fced8f;
+}
+
+a:hover{
+  color:white;
+}
+
+#paragraph-1 p:first-child::first-letter {
+font-size: 30px;
+
+}

@@ -1,0 +1,24 @@
+
+@font-face{
+  font-family: Oswald;
+  src: fonts/fonts.css;
+  font-weight: normal;
+}
+
+@font-face{
+  font-family: Oswald;
+  src: fonts/fonts.css;
+  font-weight: bold;
+}
+
+@font-face{
+  font-family: Oswald;
+  src: fonts/fonts.css;
+  font-weight: light;
+}
+
+@font-face{
+  font-family: Oswald;
+  src: fonts/fonts.css;
+  font-weight: extralight;
+}
