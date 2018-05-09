@@ -1,0 +1,121 @@
+body{
+  background-color: fdfdf1;
+}
+p{
+  margin: 1em;
+  font-family:roboto slab;
+  font-size: 80%
+}
+.woman{
+  float:none;
+  z-index: 10;
+  left: 0px;
+  position: relative;
+}
+
+.intro{
+  font-family: Merienda;
+  display:inline-block;
+  color:#303F44;
+  left: 300px;
+  top:0px;
+  position:absolute;
+  height:200px;
+  width: 400px;
+
+}
+h2{
+  background-color:#303F44;
+  color: white;
+  font-family: Anton;
+  letter-spacing: .2em;
+  word-spacing: .2em;
+  text-align: center;
+}
+
+h3{
+  font-family: Titan One;
+  font-size: 200%;
+  color: #ed1701;
+}
+.filterqueen{
+  color:#303F44;
+  left: 300px;
+  top:100px;
+  position:absolute;
+  height:200px;
+  width: 200px;
+
+}
+
+.hgw{
+  padding: 10px;
+  display:inline-block;
+  color:#303F44;
+  left: 300px;
+  top:200px;
+  position:absolute;
+  height:200px;
+  width: 200px;
+
+}
+.pic1{
+  color:#303F44;
+  left: 0px;
+  top:100px;
+  position:relative;
+  height:200px;
+  width: 200px;
+
+}
+
+.pic2{
+  color:#303F44;
+  left: 0px;
+  top:400px;
+  position:relative;
+  height:200px;
+  width: 200px;
+
+}
+
+.paragraph{
+  font-size: 100%;
+  color:#303F44;
+  left:300px;
+  top:150px;
+  position:relative;
+  height:50px;
+  width: 200px;
+
+}
+
+.logo{
+  color:#303F44;
+  left:300px;
+  top:500px;
+  position:relative;
+  height:100px;
+  width: 200px;
+}
+
+.guarantee{
+  color:#303F44;
+  left:500px;
+  top:550px;
+  position:relative;
+  height:200px;
+  width: 300px;
+}
+
+.mail{
+  border: 2px dashed #303F44;
+  font-size:75%;
+  color:#303F44;
+  left:300px;
+  top:400px;
+  position:relative;
+  height:200px;
+  width: 300px;
+
+}
